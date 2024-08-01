@@ -8,8 +8,9 @@ Here is my resume in [word(.docx)](https://docs.google.com/document/d/1DsOqg6beA
 ## Table of Contents
 1. [About Me](#about-me)
 2. [Projects](#projects)
-3. [Education](#education)
-4. [Contact](#contact)
+3. [How to Use this Repository](#how-to-use-this-repository)
+4. [Education](#education)
+5. [Contact](#contact)
 
 
 ## About me
@@ -20,6 +21,18 @@ Here is my resume in [word(.docx)](https://docs.google.com/document/d/1DsOqg6beA
 - FitBit Tracker Data Analysis | Python, Tableau
 - Image Classification | Python
 
+## How to Use this Repository
+Each project folder contains:
+
++ **Notebooks:** Jupyter notebooks containing the analysis code.
++ **Reports:** PDF or Markdown files with detailed findings and visualizations.
+
+To view the projects, clone this repository and navigate to the project folders:
+
+```
+git clone https://github.com/zuqili-joey/data-portfolio.git
+cd data-portfolio
+```
 
 ## Education
 - **Master of Science in Applied Economics and Econometrics** (STEM)
