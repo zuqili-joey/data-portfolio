@@ -16,7 +16,7 @@ Here is my resume in [word(.docx)](https://docs.google.com/document/d/1DsOqg6beA
 ## About me
 
 ## Projects
-- [CRM Analytics]( | Python
+- [CRM Analytics](CRM-Analytics) | Python
 - Customer Churn Analysis | Python, Power BI
 - FitBit Tracker Data Analysis | Python, Tableau
 - Image Classification | Python
