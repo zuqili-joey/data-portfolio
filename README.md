@@ -16,10 +16,13 @@ Here is my resume in [word(.docx)](https://docs.google.com/document/d/1DsOqg6beA
 ## About me
 
 ## Projects
-- CRM Analytics | Python
+- [CRM Analytics]( | Python
 - Customer Churn Analysis | Python, Power BI
 - FitBit Tracker Data Analysis | Python, Tableau
 - Image Classification | Python
+- Time Series Analysis on Relationship between Gold Price and CPI | Python
+- Macroeconomics Analysis - Decreasing Output while Decreasing Unemployment in the US | STATA
+- T-mobile and Sprint Merger Analysis | Economics Analysis
 
 ## How to Use this Repository
 Each project folder contains:
