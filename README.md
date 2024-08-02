@@ -17,6 +17,11 @@ Here is my resume in [word(.docx)](https://docs.google.com/document/d/1DsOqg6beA
 
 ## Projects
 - [CRM Analytics](CRM-Analytics) | Python
+  - Utilized Python to perform exploratory data analysis, logistic regression, and classification, identifying key demographic and behavioral factors influencing marketing call responses.
+  - Conducted regression and classification analyses, revealing significant predictors such as 'Income', 'Customer Lifetime Value', 'Marital Status', and 'Renew Offer Type'.
+  - Enhanced model accuracy through variable refinement, resulting in data-driven insights for targeted marketing and personalized communication strategies.
+  - Implemented recommendations for improved customer retention, including tailored offers and optimized sales channel utilization, leveraging data visualization and quantitative analysis.
+
 - Customer Churn Analysis | Python, Power BI
 - FitBit Tracker Data Analysis | Python, Tableau
 - Image Classification | Python
