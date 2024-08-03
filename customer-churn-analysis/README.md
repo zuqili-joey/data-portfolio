@@ -38,16 +38,16 @@ At the first glance, the data is well organized and the data types are automatic
 - Customers paying by credit card have a lower churn rate compared to bank withdrawal and mailed check.
 - Customers with offer A have a lower churn rate of 6.73%, with offer E have a higher churn rate of 52.92%.
 - Customers with yearly contract are less likely to churn than with monthly contract.
-- 
+
 # Recommendations
-- Competitive Pricing: Offering better deals and competitive pricing could address the 20.70% churn due to competitors.
-- Improve Customer Support: Addressing issues related to support staff's attitude could reduce churn by 14.55%.
-- Targeted Campaigns: Develop tailored retention strategies for younger customers, considering their unique preferences and needs.
-- Offers and Services: Create targeted offers and services that address the needs of younger customers without partners or dependents, possibly through bundle packages or personalized plans.
-- Enhance Service Reliability: Focusing on network reliability and reducing dissatisfaction could help retain 4.76% of customers.
-- Payment Methods: Encourage the use of credit card payments and explore ways to improve the electronic check payment process to reduce churn.
-Long-Term Contracts: Offer incentives to encourage customers to commit to longer-term contracts, such as discounts or additional services.
-- Tailored Offers: Providing customized offers based on customer segments can help reduce churn related to competitors' offers.
+- **Competitive Pricing:** Offering better deals and competitive pricing could address the 20.70% churn due to competitors.
+- **Improve Customer Support:** Addressing issues related to support staff's attitude could reduce churn by 14.55%.
+- **Targeted Campaigns:** Develop tailored retention strategies for younger customers, considering their unique preferences and needs.
+- **Offers and Services:** Create targeted offers and services that address the needs of younger customers without partners or dependents, possibly through bundle packages or personalized plans.
+- **Enhance Service Reliability:** Focusing on network reliability and reducing dissatisfaction could help retain 4.76% of customers.
+- **Payment Methods:** Encourage the use of credit card payments and explore ways to improve the electronic check payment process to reduce churn.
+- **Long-Term Contracts:** Offer incentives to encourage customers to commit to longer-term contracts, such as discounts or additional services.
+- **Tailored Offers:** Providing customized offers based on customer segments can help reduce churn related to competitors' offers.
 
 
 
