@@ -22,23 +22,23 @@ Here is my resume in [word(.docx)](https://docs.google.com/document/d/1VTGLuVE95
   - Enhanced model accuracy through variable refinement, resulting in data-driven insights for targeted marketing and personalized communication strategies.
   - Implemented recommendations for improved customer retention, including tailored offers and optimized sales channel utilization, leveraging data visualization and quantitative analysis.
 
-- Customer Churn Analysis | Python, Power BI
+- [Customer Churn Analysis](customer-churn-analysis) | Python, Power BI
   - Analyzed customer churn data using Power BI, analyzing key metrics such as churn rate, leading to actionable insights
   - Developed DAX measures and customized columns to categorize data, enhancing the accuracy of insights and enabling the company to implement targeted retention campaigns and competitive pricing strategies
   - Created data visualizations and dashboards to highlight churn trends across demographics, services, and payment methods, resulting in strategies to reduce churn among high-value customers and improve customer retention
 
-- FitBit Tracker Data Analysis | Python, Tableau
+- [FitBit Tracker Data Analysis] | Python, Tableau
   - Analyzed over 46,000 data points from 33 Fitbit users to identify trends in device usage and activity patterns using Python and Tableau
   - Cleaned and processed data, removing inconsistencies and categorizing user behavior into five distinct types
   - Delivered actionable recommendations to the stakeholders, proposing targeted marketing strategies and product improvements, including guided goal-setting programs to increase user engagement
 
-- Image Classification | Python
+- [Image Classification](image-classification) | Python
   - Developed a machine learning model in Python to classify landmarks from 420 images into six categories and 30 landmarks
   - Used EfficientNetB0 and VGG16 models, achieving 93% accuracy for landmarks and 74% for categories
 
 - Time Series Analysis on Relationship between Gold Price and CPI | Python
 - Macroeconomics Analysis - Decreasing Output while Decreasing Unemployment in the US | STATA
-- T-mobile and Sprint Merger Analysis | Economics Analysis
+- [T-mobile and Sprint Merger Analysis](t-mobile-and-sprint-merger-analysis) | Economics Analysis
 
 ## How to Use this Repository
 Each project folder contains:
